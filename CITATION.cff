@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Se utilizar este repositório em um trabalho acadêmico, cite os três autores e o relatório original."
+title: "Uso de métodos estatísticos para entender o papel da variável raça e PIB per capita no acesso ao abastecimento de água em Pernambuco"
+type: software
+authors:
+  - family-names: Silva
+    given-names: Hicaro Raffael Dionizio
+  - family-names: Oliveira
+    given-names: Isac Souto de
+  - family-names: Ahaolor
+    given-names: Owah Kingsley
